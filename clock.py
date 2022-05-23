@@ -75,7 +75,7 @@ while True:
         sek = int("%2x" %a)
         min = int("%2x" %b)
         stu = int("%2x" %c)
-        print(stu, min, sek)
+#        print(stu, min, sek)
 #
         #alternate with input    
         #    stu = int(input("Stunden 1er?"))
